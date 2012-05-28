@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://icomefromthenet.github.com/pear</id>
-    <updated>2011-10-22T06:41:57+02:00</updated>
+    <updated>2012-05-28T08:48:07+02:00</updated>
     <title>IComeFromTheNet's PEAR Channel Server Latest Releases</title>
     <link href="http://icomefromthenet.github.com/pear/feed.xml" rel="self" />
     <author>
         <name>http://icomefromthenet.github.com/pear</name>
     </author>
 
-
+    <entry>
+        <title>Migration 1.0.1 (stable)</title>
+        <link href="http://icomefromthenet.github.com/pear/get/Migration-1.0.1.tgz" />
+        <id>http://icomefromthenet.github.com/pear/get/Migration-1.0.1.tgz</id>
+        <author>
+            <name>icomefromthenet</name>
+        </author>
+        <updated>2012-05-28T06:40:15+02:00</updated>
+        <content>
+            
+* The first release of Migrations for PHP 5.3.x
+ 
+        </content>
+    </entry>
 </feed>
