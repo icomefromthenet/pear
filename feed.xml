@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://icomefromthenet.github.com/pear</id>
-    <updated>2012-09-15T03:45:43+00:00</updated>
+    <updated>2012-09-15T04:26:00+00:00</updated>
     <title>IComeFromTheNet's PEAR Channel Server Latest Releases</title>
     <link href="http://icomefromthenet.github.com/pear/feed.xml" rel="self" />
     <author>
@@ -9,19 +9,6 @@
     </author>
 
     <entry>
-        <title>Faker 1.0.3 (stable)</title>
-        <link href="http://icomefromthenet.github.com/pear/get/Faker-1.0.3.tgz" />
-        <id>http://icomefromthenet.github.com/pear/get/Faker-1.0.3.tgz</id>
-        <author>
-            <name>icomefromthenet</name>
-        </author>
-        <updated>2012-09-15T03:42:47+00:00</updated>
-        <content>
-            
-* The first release of Faker for PHP 5.3.x
- 
-        </content>
-    </entry>    <entry>
         <title>Faker 1.0.1 (stable)</title>
         <link href="http://icomefromthenet.github.com/pear/get/Faker-1.0.1.tgz" />
         <id>http://icomefromthenet.github.com/pear/get/Faker-1.0.1.tgz</id>
